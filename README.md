@@ -4,3 +4,6 @@
 # URL: https://expo.io/@szharkov88/projects/rn-self-posts
 ![alt text](https://github.com/szharkov88/react-native-self-blog/blob/main/screenshots/IMG_0839.PNG)
 ![alt text](https://github.com/szharkov88/react-native-self-blog/blob/main/screenshots/IMG_0840.PNG)
+![alt text](https://github.com/szharkov88/react-native-self-blog/blob/main/screenshots/IMG_0841.PNG)
+![alt text](https://github.com/szharkov88/react-native-self-blog/blob/main/screenshots/IMG_0842.PNG)
+![alt text](https://github.com/szharkov88/react-native-self-blog/blob/main/screenshots/IMG_0843.PNG)
